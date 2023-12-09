@@ -1,0 +1,1 @@
+{PredictionDate}_{ZealyUsername}_{TransactionCountPrediction}.txt
